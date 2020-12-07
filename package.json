@@ -1,0 +1,11 @@
+{
+  "name": "ascetic.unity.prototype",
+  "displayName": "Ascetic's Unity Prototype",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "type": "library",
+  "hideInEditor": false,
+  "dependencies": {
+    "ascetic.unity.core": ""
+  }
+}
