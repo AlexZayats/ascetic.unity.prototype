@@ -1,3 +1,6 @@
+### 1.0.3
+* Convert materials to URP.
+
 ### 1.0.2
 * Add package description.
 * Update README file.
