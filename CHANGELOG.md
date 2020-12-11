@@ -1,3 +1,6 @@
+### 1.0.4
+* Update package structure.
+
 ### 1.0.3
 * Convert materials to URP.
 
