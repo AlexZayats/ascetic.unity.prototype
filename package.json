@@ -1,9 +1,27 @@
 {
   "name": "ascetic.unity.prototype",
   "displayName": "Ascetic's Unity Prototype",
-  "version": "1.0.4",
+  "description": "Unity package for creating prototypes. Contains simple colored textures and materials for simple 3D objects.",
+  "version": "1.0.0",
   "unity": "2019.3",
   "type": "library",
   "hideInEditor": false,
-  "description": "Unity package for creating prototypes. Contains simple colored textures and materials for simple 3D objects."
+  "keywords": [
+    "unity3d",
+    "ascetic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexZayats/ascetic.unity.prototype.git"
+  },
+  "author": {
+    "name": "Alex Zayats",
+    "email": "a.zayats@outlook.com",
+    "url": "https://ascetic.pro"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexZayats/ascetic.unity.prototype/issues"
+  },
+  "homepage": "https://github.com/AlexZayats/ascetic.unity.prototype#readme"
 }
