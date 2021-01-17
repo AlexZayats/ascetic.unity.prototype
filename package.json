@@ -2,7 +2,7 @@
   "name": "ascetic.unity.prototype",
   "displayName": "Ascetic's Unity Prototype",
   "description": "Unity package for creating prototypes. Contains simple colored textures and materials for simple 3D objects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.3",
   "type": "library",
   "hideInEditor": false,
