@@ -1,5 +1,8 @@
 # Ascetic's Unity Prototype
 
+![npm](https://img.shields.io/npm/v/ascetic.unity.prototype?style=for-the-badge)
+![npm](https://img.shields.io/npm/dw/ascetic.unity.prototype?style=for-the-badge)
+
 Unity package for creating prototypes. Contains simple colored textures and materials for simple 3D objects.
 
 ## Installation
