@@ -2,6 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/ascetic.unity.prototype?style=for-the-badge)](https://www.npmjs.com/package/ascetic.unity.prototype)
 [![npm](https://img.shields.io/npm/dw/ascetic.unity.prototype?style=for-the-badge)](https://www.npmjs.com/package/ascetic.unity.prototype)
+[![GitHub](https://img.shields.io/github/license/alexzayats/ascetic.unity.prototype?style=for-the-badge)](https://github.com/AlexZayats/ascetic.unity.prototype)
+[![GitHub](https://img.shields.io/github/workflow/status/alexzayats/ascetic.unity.prototype/Node.js%20Package?style=for-the-badge)](https://github.com/AlexZayats/ascetic.unity.prototype)
 
 Unity package for creating prototypes. Contains simple colored textures and materials for simple 3D objects.
 
